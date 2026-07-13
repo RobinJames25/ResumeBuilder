@@ -1,6 +1,8 @@
 const ResumeBuilder = () => {
   return (
-    <div>ResumeBuilder Page</div>
+    <div>
+      ResumeBuilder Page
+    </div>
   )
 }
 
